@@ -1,0 +1,1 @@
+python ../main.py   --linear_ridge_mode 11 --if_ridge  --curr_path_name 'transfer_unstructured'; 

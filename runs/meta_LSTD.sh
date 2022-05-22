@@ -1,0 +1,1 @@
+python ../main.py  --linear_ridge_mode 0 --if_ridge  --if_low_rank_for_regressor   --if_low_rank_meta_self_determin_num_w --curr_path_name 'meta_structured_self_rank'; 
