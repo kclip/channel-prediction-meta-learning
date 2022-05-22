@@ -1,3 +1,5 @@
+This repository contains code for "[Predicting Multi-Antenna Frequency-Selective Channels via Meta-Learned Linear Filters based on Long-Short Term Channel Decomposition](https://arxiv.org/abs/2203.12715)" - Sangwoo Park and Osvaldo Simeone.
+
 ### Dependencies
 This program is written in python 3.8 and uses PyTorch 1.8.1.
 
